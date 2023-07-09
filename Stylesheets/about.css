@@ -1,0 +1,38 @@
+.about{
+    max-width: 80vw;
+    padding: 20px;
+    margin: auto;
+    align-items: center;
+}
+.education{
+    max-width: 80vw;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.education h2{
+    padding: 0 20px;
+    font-weight: 300;
+    justify-content: center;
+}
+.edu{
+    /* width: 60%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.circle{
+    margin: 20px;
+    background-color: #00b4d8;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    box-shadow: 1px 1px 5px black;
+}
+.card{
+    padding: 0 20px;
+    text-indent: 20px;
+    width: 40%;
+    box-shadow: 1px 1px 5px black;
+}

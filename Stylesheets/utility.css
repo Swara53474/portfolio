@@ -1,0 +1,42 @@
+.darkred{
+    color: darkred;
+    justify-content: center;
+    font-size: 1.8rem;
+}
+#element{
+    color: lavender;
+}
+#degree{
+    font-size: 1.2rem;
+}
+#major{
+    font-size: 1rem;
+    color: rgb(45, 45, 45);
+}
+#dates{
+    font-family: 0.8rem;
+}
+#institution{
+    font-size: 1.2rem;
+}
+.projecttitle{
+    color: #0077b6;
+    font-size: 1.5rem;
+    font-weight: 800;
+    margin: 50px 0;
+}
+.projectDescription{
+    font-size: 1rem;
+}
+.contactme{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 10vw;
+}
+.message{
+    margin: 10px;
+    font-size: 1rem;
+    font-weight: 600;
+}

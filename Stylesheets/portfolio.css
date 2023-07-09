@@ -1,0 +1,28 @@
+.portfolio {
+    max-width: 80vw;
+    padding: 20px;
+    margin: auto;
+    align-items: center;
+}
+.projects{
+    max-width: 80vw;
+    padding: 20px;
+    justify-content: center;
+}
+.project {
+    display: flex;
+    justify-content: space-around;
+    align-items: first-baseline;
+    box-shadow: 1px 1px 5px black;
+    margin: 20px;
+}
+.port-left img {
+  width: 250px;
+  height: 150px;
+  margin: 10px 10px;
+  border: 2px solid #00000085;
+  position: offset;
+}
+.port-right {
+    margin: 10px 10px 10px 10px;
+}

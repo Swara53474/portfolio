@@ -1,0 +1,67 @@
+.technologies{
+    max-width: 80vw;
+    padding: 20px;
+    margin: auto;
+    align-items: center;
+}
+.skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .skill-badge {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 16px;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 50px;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .java {
+    background-color: #007396;
+  }
+  
+  .python {
+    background-color: #4B8BBE;
+  }
+  
+  .c {
+    background-color: #A8B9CC;
+  }
+  
+  .cpp {
+    background-color: #649AD2;
+  }
+  
+  .html {
+    background-color: #E34C26;
+  }
+  
+  .css {
+    background-color: #1572B6;
+  }
+  
+  .js {
+    background-color: #F0DB4F;
+  }
+  
+  .bash {
+    background-color: #000000;
+  }
+  
+  .mysql {
+    background-color: #4479A1;
+  }
+  
+  .javafx {
+    background-color: #8B0000;
+  }
+  
